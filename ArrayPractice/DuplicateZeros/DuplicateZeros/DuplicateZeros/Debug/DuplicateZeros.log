@@ -1,0 +1,4 @@
+﻿  DuplicateZeros.cpp
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DuplicateZeros\DuplicateZeros\DuplicateZeros\DuplicateZeros.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DuplicateZeros\DuplicateZeros\DuplicateZeros\DuplicateZeros.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+  DuplicateZeros.vcxproj -> F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DuplicateZeros\DuplicateZeros\Debug\DuplicateZeros.exe
