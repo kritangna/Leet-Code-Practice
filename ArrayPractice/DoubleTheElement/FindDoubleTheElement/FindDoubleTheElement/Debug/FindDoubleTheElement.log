@@ -1,0 +1,4 @@
+﻿  FindDoubleTheElement.cpp
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DoubleTheElement\FindDoubleTheElement\FindDoubleTheElement\FindDoubleTheElement.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DoubleTheElement\FindDoubleTheElement\FindDoubleTheElement\FindDoubleTheElement.cpp(30,25): warning C4018: '<=': signed/unsigned mismatch
+  FindDoubleTheElement.vcxproj -> F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\DoubleTheElement\FindDoubleTheElement\Debug\FindDoubleTheElement.exe
