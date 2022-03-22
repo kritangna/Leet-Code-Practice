@@ -1,0 +1,4 @@
+﻿  ValidMountain.cpp
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\ValidMountain\ValidMountain\ValidMountain\ValidMountain.cpp(14,18): warning C4018: '<': signed/unsigned mismatch
+F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\ValidMountain\ValidMountain\ValidMountain\ValidMountain.cpp(20,18): warning C4018: '<': signed/unsigned mismatch
+  ValidMountain.vcxproj -> F:\Learning\LeetCodePractice\Leet-Code-Practice\ArrayPractice\ValidMountain\ValidMountain\Debug\ValidMountain.exe
